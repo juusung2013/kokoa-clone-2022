@@ -14,5 +14,5 @@
 }
 
 .settings__setting-column:last-child {
-    opacityL 0.7;
+  opacity: 0.5;
 }
